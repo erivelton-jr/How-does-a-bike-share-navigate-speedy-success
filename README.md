@@ -1,9 +1,9 @@
-<div>
-    <img src="https://miro.medium.com/v2/resize:fit:1181/1*5aFr82kqA3lsHx-KgwIP3w.jpeg" 
-         width="150" style="float: left; margin-right: 20px;">
-    <h1 style="line-height: 150px; margin: 0;">How does a bike-share navigate speedy success?</h1>
-    <div style="clear: both;"></div>
-</div>
+<table>
+  <tr>
+    <td><img src="https://miro.medium.com/v2/resize:fit:1181/1*5aFr82kqA3lsHx-KgwIP3w.jpeg" width="150"/></td>
+    <td><h1>How does a bike-share navigate speedy success?</h1></td>
+  </tr>
+</table>
 
 
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat&logo=python&logoColor=white)
